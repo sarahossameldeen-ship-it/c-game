@@ -12,7 +12,7 @@ The game demonstrates efficient logic handling, smooth gameplay, and interactive
   - Player can shoot and eliminate enemies
   - Enemies can damage or eliminate the player
 - 4 different enemy types with unique behaviors
-  (Ghost - Plane shoot rockets - dragon have laser - guard of the winning gate)
+  (Flying Ghost - Plane shoot rockets - dragon have laser - guard of the winning gate)
 - Real-time gameplay and interactions
 - Environmental elements:
   - Ladder (vertical movement)
